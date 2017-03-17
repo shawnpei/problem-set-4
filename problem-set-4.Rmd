@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = "#>")
 1. Publish HTML on Rpubs (you will need to sign up for the free account) and *add the link below*.
 1. Submit a PR with your answers.
 
-*Link to Rpubs document:* XXX
+*http://rpubs.com/shawnspei/MOLB7621-PS4*
 
 # Overview
 
